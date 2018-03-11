@@ -78,8 +78,8 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
-  avatar           : "/images/avatar.jpg"
+  name             : "Filipe Teixeira"
+  avatar           : "avatar.jpg"
   bio              : "Mathematician, Architect, Neuroscientist, Pianist, professional complainer."
   location         : "Ghent, Belgium"
   employer         :
