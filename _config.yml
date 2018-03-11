@@ -79,7 +79,7 @@ analytics:
 # Site Author
 author:
   name             : "Your Sidebar Name"
-  avatar           : "images/avatar.jpg"
+  avatar           : "/images/avatar.jpg"
   bio              : "Mathematician, Architect, Neuroscientist, Pianist, professional complainer."
   location         : "Ghent, Belgium"
   employer         :
