@@ -17,12 +17,11 @@ Education
 
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Network Analysis
+* R Programming
+  * skynet package (created and developed)
+  * tidyverse
+* Spatial Modelling
 
 Publications
 ======
@@ -41,4 +40,3 @@ Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
