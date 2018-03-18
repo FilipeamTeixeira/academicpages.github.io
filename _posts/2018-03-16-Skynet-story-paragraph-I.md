@@ -1,7 +1,7 @@
 ---
-title: 'Skynet - an R love hate story'
+title: 'Skynet - an R love hate story - Paragraph I'
 date: 2018-03-16
-permalink: /posts/2018/03/blog-post-1/
+permalink: /posts/2018/03/Skynet-story-paragraph-I/
 tags:
   - R programming
   - Skynet
