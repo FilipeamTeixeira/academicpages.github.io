@@ -6,7 +6,7 @@ excerpt: 'Presynaptic CB1 cannabinoid receptors control frontocortical serotonin
 date: 2012-07-01
 venue: ''
 paperurl: 'https://www.sciencedirect.com/science/article/pii/S0197018612001696'
-citation: 'M. Teixeira, Filipe. (2012). &quot;Paper Title Number 1.&quot; <i>Neurochemistry International</i>. 1(1).'
+citation: 'M. Teixeira, Filipe. (2012). <i>Neurochemistry International</i>.'
 ---
 Presynaptic CB1 cannabinoid receptors control frontocortical serotonin and glutamate release – Species differences.
 

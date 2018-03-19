@@ -19,15 +19,18 @@ What were a few lines of code soon became the foundations for a package, and a s
 
 But I'm not here for self congratulation as I do that as a "healthy" exercise on a daily basis together with my morning coffee. The goal of this post is to go through the challenges and some of the resources I have found since I've started coding about one year ago.
 
-### Paragraph I - (Re)sources to avoid immediate insanity
+## Paragraph I - (Re)sources to avoid immediate insanity
 
-#### R statistics - Andy Field.
+### Discovering statistics with R - Andy Field.
+https://uk.sagepub.com/en-gb/eur/discovering-statistics-using-r/book236067  
 This is my true and only R bible. Hail the great Andy Field, as he shall solve all of your R problems. Jokes aside, this book made me love R in a way I never thought I would love it. Like a puppy wrapped in silk with a velvet red bow. It's cute but informative. Funny but scientific. Nothing I can say, would ever be enough to show how much I'm thankful to Andy to have written this book. So if you have it in your university library, just run and get it. If not, the somehow high price for this book is more than justifiable. Not just for its size and weight, but as well for its content.
 
-#### Tidyverse R Package - Hadley Wickham et al.
+### Tidyverse R Package - Hadley Wickham
+https://www.tidyverse.org  
 Another life saver. This was and still is another lifesaver. Hadley and his colleagues wrote this series of packages, now somehow integrated with R Studio, saved my life more than once, thanks to its beautiful, clean, easy to learn syntax. I know that some of the more traditional, code-loving programmers, still prefer to have 20000 lines of code than to use those packages, used by programming toddlers just like me. However, I prefer efficiency. Just like classical paintings, some things are quite nice to look at but that's it. I would never spend the rest of my life painting nymphs or people contemplating dead stuff.
 
-#### Stackoverflow
+### Stackoverflow
+https://stackoverflow.com  
 This is a rather tricky one. I love it and it saved my life a couple of times. However, you will find those who can be I would say slightly more critical about what you are searching for. In general, the community is helpful, and some people do take the time to understand what is that you are trying to do and what is the source of your problems. So whenever the "more critically oriented" members of the community appear, try to be nice. Others might not like it.
 
 ---
