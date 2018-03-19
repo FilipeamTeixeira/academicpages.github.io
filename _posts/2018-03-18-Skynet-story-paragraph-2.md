@@ -48,5 +48,14 @@ I've mentioned stackoverflow before. Ask a lot of questions there. If you don't 
 
 
 ### Backup your stuff
-We're not in 1931 so backup your stuff. I know it sounds absurd to have to mention this but I can't even tell how many researchers I've met who ended up losing weeks or even months of work for not backing up their data.
+We're not in 1931 so backup your stuff. I know it sounds absurd to have to mention this but, I can't even tell how many researchers I've met who ended up losing weeks or even months of work for not backing up their data.
 Github is a good way of sharing code, but as well to actually leave it in the cloud.
+
+### Write it down on paper
+This is a personal preference. However, I still love to write down things either in pseudocode, or simply just R code on paper. It trains your memory, speeds up the process whenever you don't have a computer in front of you, and it makes you definitively a better person.
+
+### Practice, practice, practice.
+Never ever stop. Not even when you think that life is miserable now that you have to code in R. You might think that the black plague and all that stuff with the dark ages was awesome compared to what you've been experiencing, but you'll soon realise that you're wrong.
+If I could do it, so can you.
+
+I know that this isn't much, but I'll soon post some extra tips and tricks which helped me a lot in R, so feel free to reach me, test my code, and please be critical. I have enough Portuguese wine to cope with ~~all~~ most criticism in the world.
