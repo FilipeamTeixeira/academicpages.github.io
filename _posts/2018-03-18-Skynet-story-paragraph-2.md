@@ -9,7 +9,7 @@ tags:
 ---
 
 
-## Paragraph II - Lying to myself. The creative process behind learning R
+## Lying to myself. The creative process behind learning R
 
 I admit it. I've lost some sleep while trying to learn R. I felt stupid, I felt that a comma would put me into a coma, but not everything was hard work, highly intellectual tasks and a deep understanding of R. Instead, I would easily say that a big part of it, probably more than I would like to admit, was pure luck and writing bits of code I still don't understand what they really do.
 
@@ -22,7 +22,8 @@ So that somehow creative process doesn't always exist as we imagine it. It's jus
 Learning R was done by parts. I first tried to create my own code. I started with small problems and short bits of code, and progressed to more complex things.
 One of the most important things I can think of is to look at good and well written bits of code, and do the same with yours. Some of the best and better documented packages, have a proper syntax, which allows you to learn often better than with some available books.
 
-```
+
+{% highlight r %}
 #' @export
 #' @keywords internal
 group_by_prepare <- function(.data, ..., .dots = list(), add = FALSE) {
@@ -33,8 +34,8 @@ group_by_prepare <- function(.data, ..., .dots = list(), add = FALSE) {
 
   # Once we've done the mutate, we need to name all objects
   new_groups <- exprs_auto_name(new_groups, printer = tidy_text)
+{% endhighlight %}
 
-```
 _From Dplyr package code._
 
 ### Documenting
