@@ -1,7 +1,7 @@
 ---
-title: 'Skynet - an R love hate story - Paragraph I'
+title: 'Skynet - an R love hate story - Part I'
 date: 2018-03-16
-permalink: /posts/2018/03/Skynet-story-paragraph-I/
+permalink: /posts/2018/03/Skynet-story-part-I/
 tags:
   - R programming
   - Skynet
@@ -19,7 +19,7 @@ What were a few lines of code soon became the foundations for a package, and a s
 
 But I'm not here for self congratulation as I do that as a "healthy" exercise on a daily basis together with my morning coffee. The goal of this post is to go through the challenges and some of the resources I have found since I've started coding about one year ago.
 
-## Paragraph I - (Re)sources to avoid immediate insanity
+## Part I - (Re)sources to avoid immediate insanity
 
 ### Discovering statistics with R - Andy Field.
 https://uk.sagepub.com/en-gb/eur/discovering-statistics-using-r/book236067  
