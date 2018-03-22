@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Fil's website"
+title                    : "Lost in Statistics"
 title_separator          : "-"
 name                     : &name "Filipe Teixeira"
 description              : &description ""
