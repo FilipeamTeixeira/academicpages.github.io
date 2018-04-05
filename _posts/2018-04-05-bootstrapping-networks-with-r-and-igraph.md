@@ -38,7 +38,7 @@ g1 <- g %>%
 Now that we have our resampled network, we need to repeat this n amount of times.
 First we create an empty vector to store our results. Then we loop through our code 500 times, always saving our statistic of interest. I chose the graph centralisation betweenness.
 
-{% highlight r %}
+```r
 library(igraph)
 library(dplyr)
 
@@ -48,8 +48,7 @@ for(i in 1:500){
     rewire(keeping_degseq(loops = FALSE, niter = ecount(gDeg)*10)) #Swaps edges
   btw[i] <- centralization.betweenness(gDeg)$centralization # Runs and saves statistic of interest
 }
-
-{% endhighlight %}
+```
 
 And that's it. It's always possible to create more vectors and more statistics depending on what you're studying. Surely after it is important to get the Confidence intervals for the bootstrapped results, but that's solely dependant on the method you're using for such.
 
