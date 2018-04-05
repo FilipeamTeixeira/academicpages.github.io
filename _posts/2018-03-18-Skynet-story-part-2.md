@@ -24,8 +24,6 @@ One of the most important things I can think of is to look at good and well writ
 
 
 {% highlight r %}
-#' @export
-#' @keywords internal
 group_by_prepare <- function(.data, ..., .dots = list(), add = FALSE) {
   new_groups <- c(quos(...), compat_lazy_dots(.dots, caller_env()))
 

@@ -19,8 +19,6 @@ There are several useful R packages for that such as `bootnet` and `snowboot`. H
 The first thing we need is to create a sample network to work with.
 
 {% highlight r %}
-#' @export
-#' @keywords internal
 
 library(igraph)
 library(dplyr)
@@ -33,9 +31,6 @@ In order to bootstrap a network, it is important to keep it's structure. The mos
 Fortunately igraph has two good functions for that `rewire()` and `keeping_degseq()`. In this case we'll want to rewire the amount of edges in our network, 10 times. It is important to note that the igraph function runs n amount of trials, which some can be unsuccessful. However, almost 100% of the edges should be swapped.
 
 {% highlight r %}
-#' @export
-#' @keywords internal
-
 g1 <- g %>%
   rewire(keeping_degseq(niter = ecount(g)*10))
 {% endhighlight %}
@@ -44,8 +39,6 @@ Now that we have our resampled network, we need to repeat this n amount of times
 First we create an empty vector to store our results. Then we loop through our code 500 times, always saving our statistic of interest. I chose the graph centralisation betweenness.
 
 {% highlight r %}
-#' @export
-#' @keywords internal
 library(igraph)
 library(dplyr)
 
