@@ -1,7 +1,7 @@
 ---
-layout: "post"
 title: "Bootstrapping networks with R and igraph"
-date: "2018-04-05 09:46"
+date: 2018-04-05
+permalink: /posts/2018/04/bootstrapping-networks with-r-and-igraph/
 tags:
   - R programming
   - networks
