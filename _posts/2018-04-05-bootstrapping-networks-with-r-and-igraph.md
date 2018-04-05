@@ -25,7 +25,7 @@ library(dplyr)
 g <- sample_smallworld(1, 300, 5, 0.05)
 ```
 
-In order to bootstrap a network, it is important to keep it's structure. The most common way of doing so is by keeping its degree distribution and swap its edges. (e.g. A - B and C - D edges, are replaced by A - C and B - D). [Hennemann (2012)](https://onlinelibrary.wiley.com/doi/full/10.1002/asi.22739)
+In order to bootstrap a network, it is important to keep its structure. The most common way of doing so is by keeping its degree distribution and swap its edges. (e.g. A - B and C - D edges, are replaced by A - C and B - D). [Hennemann (2012)](https://onlinelibrary.wiley.com/doi/full/10.1002/asi.22739)
 
 Fortunately igraph has two good functions for that `rewire()` and `keeping_degseq()`. In this case we'll want to rewire the amount of edges in our network, 10 times. It is important to note that the igraph function runs n amount of trials, which some can be unsuccessful. However, almost 100% of the edges should be swapped.
 
