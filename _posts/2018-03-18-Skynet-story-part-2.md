@@ -23,7 +23,7 @@ Learning R was done by parts. I first tried to create my own code. I started wit
 One of the most important things I can think of is to look at good and well written bits of code, and do the same with yours. Some of the best and better documented packages, have a proper syntax, which allows you to learn often better than with some available books.
 
 
-{% highlight r %}
+```r
 group_by_prepare <- function(.data, ..., .dots = list(), add = FALSE) {
   new_groups <- c(quos(...), compat_lazy_dots(.dots, caller_env()))
 
@@ -32,7 +32,7 @@ group_by_prepare <- function(.data, ..., .dots = list(), add = FALSE) {
 
   # Once we've done the mutate, we need to name all objects
   new_groups <- exprs_auto_name(new_groups, printer = tidy_text)
-{% endhighlight %}
+```
 
 _From Dplyr package code._
 

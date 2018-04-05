@@ -18,13 +18,12 @@ There are several useful R packages for that such as `bootnet` and `snowboot`. H
 
 The first thing we need is to create a sample network to work with.
 
-{% highlight r %}
-
+```r
 library(igraph)
 library(dplyr)
 
 g <- sample_smallworld(1, 300, 5, 0.05)
-{% endhighlight %}
+```
 
 In order to bootstrap a network, it is important to keep it's structure. The most common way of doing so is by keeping its degree distribution and swap its edges. (e.g. A - B and C - D edges, are replaced by A - C and B - D). [Hennemann (2012)](https://onlinelibrary.wiley.com/doi/full/10.1002/asi.22739)
 
