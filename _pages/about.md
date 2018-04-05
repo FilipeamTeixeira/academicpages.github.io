@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Minions currently building website"
+title: "Lost in statistics"
 excerpt: "About me"
 author_profile: true
 redirect_from:
@@ -8,7 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-***Be right back.***
 
 ---
 
