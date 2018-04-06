@@ -2,6 +2,7 @@
 title: 'Skynet - an R love hate story - Part I'
 date: 2018-03-16
 permalink: /posts/2018/03/Skynet-story-part-I/
+comments: true
 tags:
   - R programming
   - Skynet
