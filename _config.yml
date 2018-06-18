@@ -84,7 +84,7 @@ author:
   location         : "Ghent, Belgium"
   employer         :
   googlescholar    : "https://scholar.google.be/citations?user=4d511sUAAAAJ&hl=en"
-  email            :
+  email            : "Filipe.MarquesTeixeira@Ugent.be"
   uri              :
   bitbucket        :
   codepen          :
@@ -98,7 +98,7 @@ author:
   instagram        :
   lastfm           :
   linkedin         :
-  orcid            : ""
+  orcid            : " https://orcid.org/0000-0001-8081-8520"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
@@ -110,7 +110,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-
+  researchgate     : "https://www.researchgate.net/profile/Filipe_Alberto_Marques_Teixeira"
 
 # Reading Files
 include:
